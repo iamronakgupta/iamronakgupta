@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does rails knows that migration is pending?](https://dev.to/iamronakgupta/how-does-rails-knows-that-migration-is-pending-2bmf)
+- [Should we use DRY code pattern ?](https://dev.to/iamronakgupta/should-we-use-dry-code-7oe)
+- [Why Java is not pure OOPS?](https://dev.to/iamronakgupta/why-java-is-not-pure-oops-442i)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
