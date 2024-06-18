@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamronakgupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamronakgupta" /> </p>
 
-- 🔭 I’m currently working on [Casa by Ruby For Good](https://github.com/rubyforgood/casa)
+- 🔭 I’m currently contributing on Open Source Project [Casa by Ruby For Good](https://github.com/rubyforgood/casa)
 
 - 🌱 I’m currently learning **Kubernetes and Microservices**
 
